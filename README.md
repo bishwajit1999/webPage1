@@ -1,2 +1,2 @@
 # webPage1
-Created a web page which include investors details of the organization
+I have developed a webpage that features comprehensive information about the organization's investors.
